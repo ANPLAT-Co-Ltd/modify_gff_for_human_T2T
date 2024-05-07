@@ -1,6 +1,7 @@
 # modify_gff_for_human_T2T
 NCBIで公開されているT2T-CHM13v2.0のgffをsnpEffでのデータベース構築に向いた形に変更するプログラム
 
+## Usage
 ```
 usage: modify_gff.py [-h] -i I -o O
 
@@ -25,3 +26,7 @@ options:
   -ot OT, --out_txt OT
   -bgzip BGZIP, --bgzip BGZIP
 ```
+
+## Detail
+
+https://zenn.dev/anplat/articles/5ff90996e1cd45
