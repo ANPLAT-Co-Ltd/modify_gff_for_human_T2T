@@ -1,0 +1,2 @@
+# modify_gff_for_human_T2T
+NCBIで公開されているT2T-CHM13v2.0のgffをsnpEffでのデータベース構築に向いた形に変更するプログラム
