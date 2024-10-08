@@ -30,3 +30,6 @@ options:
 ## Detail
 
 https://zenn.dev/anplat/articles/5ff90996e1cd45
+
+## LICENSE
+https://github.com/ANPLAT-Co-Ltd/modify_gff_for_human_T2T/blob/main/LICENSE
